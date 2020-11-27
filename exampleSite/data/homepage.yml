@@ -34,20 +34,20 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: 5 účinných tipů na posílení imunity
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - "/images/posileni-imunity.jpg"
+    - "/images/zdrava-imunita.jpg"
+    - "/images/echinacea-na-imunitu-1.jpg"
+    content: Imunitní systém je obranný mechanismus lidského těla, který nás chrání
+      před bakteriemi, viry a dalšími nebezpečnými látkami, které by nás mohly ohrozit.
+      Pokud je zdravý, jsme plní energie a nebýváme nemocní. Současný životní styl
+      tomu ale příliš nenahrává. Proto se mrkneme na několik tipů, jak ho optimálně
+      posílit.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Posílit imunitu
+      link: https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/
   - title: It is a privately owned Information and cyber security company
     images:
     - images/service-1.png
