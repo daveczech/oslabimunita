@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Když přijde zima, začne spousta z nás pokašlávat a smrkat. Když se k tomu ještě přidá kýchání a ucpaný nos, není o co stát. Víte, jak se zbavit rýmy?"
-draft = true
 image = "/images/jak-se-zbavit-rymy.jpg"
 title = "Víte, jak se zbavit rýmy? Vyzkoušejte tyto 3 tipy"
 type = ""

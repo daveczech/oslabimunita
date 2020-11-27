@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Když jsme nemocní, nebo nachlazení, nejčastěji saháme po vitamínu C. Věděli jste ale, že pozitivní účinky na zdraví a imunitu má také vitamín D?"
-draft = true
 image = "/images/vitamin-d3.jpg"
 title = "Vitamín D3: Ochrana před onemocněním"
 type = ""

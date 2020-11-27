@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Není vám dobře a máte pocit, že na vás něco leze? V tom případě byste si měli nejspíš doplnit zásobu vitamínu C. Víte jak působí vitamín C na imunitu?"
-draft = true
 image = "/images/vitamin-c-na-imunitu.jpg"
 title = "Vitamín C pro zdravou imunitu"
 type = ""
