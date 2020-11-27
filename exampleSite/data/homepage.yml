@@ -61,30 +61,32 @@ service:
       enable: true
       label: Jak funguje imunitní systém
       link: https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: 'Oslabená imunita: Příznaky a prevence'
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - "/images/oslabena-imunita.jpg"
+    - "/images/oslabeny-imunitni-system.jpg"
+    - "/images/priznaky-oslabene-imunity.jpg"
+    content: Oslabená imunita představuje problém. Především proto, že jsme z ničeho
+      nic náchylnější k rozvoji nejrůznějších chorob. Nejde přitom jen o nachlazení,
+      ale také o chřipku, či angínu. Aby bylo všechno zase v pořádku, povíme vám,
+      jak ji poznáte a co se s ní dá dělat.
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
+      label: Příznaky oslabené imunity
+      link: https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/
+  - title: 4 nejúčinnější bylinky na podporu imunity
     images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - "/images/bylinky-na-imunitu.jpg"
+    - "/images/prirodni-posileni-imunity.jpg"
+    - "/images/rakytnik-na-imunitu.jpg"
+    content: Když se vám neudělá dobře, vezmete si lék a počkáte, až zabere. Příště
+      pak jednáte v podobném duchu. Bez toho, abyste přemýšleli o tom, zda tento zvyk
+      nemá negativní dopady na vaše celkové zdraví. Pokud pro sebe chcete udělat něco
+      navíc, příště vsaďte na přírodní sílu těchto několika bylinek!
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Chci vědět víc
+      link: https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
