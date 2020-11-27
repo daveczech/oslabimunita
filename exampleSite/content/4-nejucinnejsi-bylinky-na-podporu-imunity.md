@@ -2,6 +2,9 @@
 description = "Pokud pro sebe chcete udělat něco navíc, vsaďte na přírodní sílu bylinek! Znáte nejúčinnější bylinky na imunitu?"
 subtitle = ""
 title = "4 nejúčinnější bylinky na podporu imunity"
+[menu.main]
+name = "Bylinky na imunitu"
+weight = 5
 
 +++
 ![](/images/bylinky-na-imunitu.jpg)
