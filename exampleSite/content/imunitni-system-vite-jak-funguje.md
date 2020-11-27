@@ -1,6 +1,5 @@
 +++
 description = "Imunitní systém je něco, co nám umožňuje přežít. Jelikož je pro naše normální fungování naprosto klíčový, podíváme se na to, jak pracuje."
-draft = true
 subtitle = ""
 title = "Imunitní systém: Víte, jak funguje?"
 
