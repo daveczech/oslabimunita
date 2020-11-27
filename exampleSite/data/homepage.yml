@@ -15,22 +15,22 @@ feature:
   feature_item:
   - name: Jak posílit imunitu
     icon: ti-pulse
-    content: Přečtěte si 5 tipů, jak posílit imunitní systém.
+    content: 5 nejúčinnějších tipů na posílení imunity.
   - name: Imunitní systém
     icon: ti-package
-    content: Víte, jak funguje funguje imunitní systém?
+    content: Jak funguje imunitní systém?
   - name: Oslabená imunita
     icon: ti-alarm-clock
-    content: Nejčastější příznaky a prevence oslabené imunity
+    content: Prevence a nejčastější příznaky oslabené imunity.
   - name: Bylinky na imunitu
     icon: ti-credit-card
-    content: 4 nejúčinnější bylinky na podporu imunity
+    content: 4 nejúčinnější bylinky na podporu imunity.
   - name: Virová onemocnění
     icon: ti-headphone-alt
-    content: Víte, jaká jsou nejčastější virová onemocnění?
+    content: Nejčastější virová onemocnění a jak se jim bránit.
   - name: Jak se zbavit rýmy
     icon: ti-cloud-up
-    content: 'Vyzkoušejte 3 osvědčené tipy '
+    content: '3 osvědčené tipy '
 service:
   enable: true
   service_item:
