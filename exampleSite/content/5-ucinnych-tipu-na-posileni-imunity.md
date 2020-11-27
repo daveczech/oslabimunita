@@ -2,6 +2,9 @@
 description = "Imunitní systém je obranný mechanismus lidského těla, který nás chrání před bakteriemi, viry a dalšími nebezpečnými látkami. Víte, jak posílit imunitu?"
 subtitle = ""
 title = "5 účinných tipů na posílení imunity"
+[menu.main]
+name = "Posílení imunity"
+weight = 5
 
 +++
 ![](/images/posileni-imunity.jpg)
