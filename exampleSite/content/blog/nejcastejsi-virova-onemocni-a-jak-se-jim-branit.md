@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Kdykoliv jsme nemocní, musíme správně rozlišit, zda trpíme chorobou způsobenou bakteriemi, nebo viry. Znáte všechna virová onemocnění?."
-draft = true
 image = "/images/virova-onemocneni.jpg"
 title = "Nejčastější virová onemocní a jak se jim bránit"
 type = ""

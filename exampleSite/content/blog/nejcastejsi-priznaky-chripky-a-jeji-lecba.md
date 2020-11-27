@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Podzim a zima je období chřipky. U ní nejde jen o to, že máte kašel a teče vám z nosu, tak, jako je to běžné u sezónního nachlazení. Jde o vážné onemocnění, které může mít velmi těžký průběh a které může mít u oslabených jedinců i fatální následky. Víte, jaké má pravá chřipka příznaky a jak se léčí?"
-draft = true
 image = "/images/priznaky-chripky.jpg"
 title = "Nejčastější příznaky chřipky a její léčba"
 type = ""

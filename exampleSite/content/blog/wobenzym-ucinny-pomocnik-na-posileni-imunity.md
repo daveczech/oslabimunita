@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Pokud jste nemocní, nebo dokonce po operaci, čeká vás období rekonvalescence, možná sáhnete po Wobenzymu. Dnes se podíváme, co vše dokáže."
-draft = true
 image = "/images/wobenzym.jpg"
 title = "Wobenzym: Účinný pomocník na posílení imunity"
 type = ""

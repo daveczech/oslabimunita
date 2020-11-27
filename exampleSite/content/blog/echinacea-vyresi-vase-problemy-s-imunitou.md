@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Pokud se zajímáte o posilování imunitního systému v období nachlazení a chřipky, určitě jste se setkali s rostlinou jménem echinacea. Víte, jak funguje?"
-draft = true
 image = "/images/echinacea.jpg"
 title = "Echinacea: Vyřeší vaše problémy s imunitou"
 type = ""

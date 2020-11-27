@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "V posledních měsících jsme si ověřili, jak je důležité mít stálý přístup k dezinfekci na ruce. Někdy jsou drahé, nebo špatně k dostání. Přečtěte si více."
-draft = true
 image = "/images/dezinfekce-na-ruce.jpg"
 title = "Dezinfekce rukou: Víte, jak ji správně používat?"
 type = ""
