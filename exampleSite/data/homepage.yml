@@ -30,7 +30,7 @@ feature:
     content: Nejčastější virová onemocnění a jak se jim bránit.
   - name: Jak se zbavit rýmy
     icon: ti-cloud-up
-    content: '3 osvědčené tipy '
+    content: Jak se rychle zbavit rýmy? Vyzkoušejte naše tipy.
 service:
   enable: true
   service_item:
