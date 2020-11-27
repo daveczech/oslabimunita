@@ -48,18 +48,19 @@ service:
       enable: true
       label: Posílit imunitu
       link: https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/
-  - title: It is a privately owned Information and cyber security company
+  - title: 'Imunitní systém: Víte, jak funguje?'
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - "/images/imunitni-system.jpg"
+    - "/images/jak-funguje-imunitni-system.jpg"
+    - "/images/vrozena-imunita.jpg"
+    content: Imunitní systém je něco, co nám umožňuje přežít. Vzhledem k tomu, že
+      nás neustále ohrožují nějaké patogeny z okolního prostředí, nebýt něj, nebyli
+      bychom tu ani deset minut. Jelikož je pro naše normální fungování naprosto klíčový,
+      podíváme se na to, jak pracuje.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Jak funguje imunitní systém
+      link: https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
