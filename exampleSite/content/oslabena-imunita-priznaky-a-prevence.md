@@ -1,6 +1,5 @@
 +++
 description = "Oslabená imunita představuje problém. Především proto, že jsme z ničeho nic náchylnější k rozvoji nejrůznějších chorob. Jak ji poznáte a co se s ní dá dělat?"
-draft = true
 subtitle = ""
 title = "Oslabená imunita: Příznaky a prevence"
 
