@@ -1,7 +1,6 @@
 +++
 date = 2020-11-26T23:00:00Z
 description = "Když vám není dobře, není nic jednoduššího než zalézt do postele s pořádně velkým hrnkem teplého čaje. Víte, který čaj na nachlazení je ten nejlepší?"
-draft = true
 image = "/images/caj-na-nachlazeni.jpg"
 title = "Čaj na nachlazení: Jak ho připravit, a který pomůže"
 type = ""
