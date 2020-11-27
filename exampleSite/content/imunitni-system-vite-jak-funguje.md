@@ -2,6 +2,9 @@
 description = "Imunitní systém je něco, co nám umožňuje přežít. Jelikož je pro naše normální fungování naprosto klíčový, podíváme se na to, jak pracuje."
 subtitle = ""
 title = "Imunitní systém: Víte, jak funguje?"
+[menu.main]
+name = "Imunitní systém"
+weight = 2
 
 +++
 ![](/images/imunitni-system.jpg)
