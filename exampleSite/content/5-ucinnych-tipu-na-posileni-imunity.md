@@ -3,7 +3,7 @@ description = "Imunitní systém je obranný mechanismus lidského těla, který
 subtitle = ""
 title = "5 účinných tipů na posílení imunity"
 [menu.main]
-name = "Posílení imunity"
+name = "Jak posílit imunitu"
 weight = 1
 
 +++
