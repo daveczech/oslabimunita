@@ -4,7 +4,7 @@ subtitle = ""
 title = "4 nejúčinnější bylinky na podporu imunity"
 [menu.main]
 name = "Bylinky na imunitu"
-weight = 5
+weight = 4
 
 +++
 ![](/images/bylinky-na-imunitu.jpg)
