@@ -19,12 +19,12 @@ feature:
   - name: Imunitní systém
     icon: ti-package
     content: Jak funguje imunitní systém?
-  - name: Oslabená imunita
-    icon: ti-alarm-clock
-    content: Prevence a nejčastější příznaky oslabené imunity.
   - name: Bylinky na imunitu
     icon: ti-credit-card
     content: 4 nejúčinnější bylinky na podporu imunity.
+  - name: Oslabená imunita
+    icon: ti-alarm-clock
+    content: Prevence a nejčastější příznaky oslabené imunity.
   - name: Virová onemocnění
     icon: ti-headphone-alt
     content: Nejčastější virová onemocnění a jak se jim bránit.
