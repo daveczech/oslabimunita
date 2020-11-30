@@ -25,20 +25,8 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/faq/_index.md
-  label: FAQ
-- type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
-- type: document
-  path: exampleSite/content/pricing/_index.md
-  label: Pricing
-- type: document
-  path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
-- type: document
-  path: exampleSite/content/terms-conditions/_index.md
-  label: Terms & Conditions
 - type: heading
   label: All Pages
 - type: directory
