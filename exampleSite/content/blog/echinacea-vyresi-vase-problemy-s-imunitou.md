@@ -29,7 +29,7 @@ Jak už bylo řečeno, echinacea je ceněná kvůli mnoha pozitivním účinkům
 **Říká se o ní, že:**
 
 * Je v ní spousta antioxidantů
-* Podporuje zdraví imunitního systému
+* Podporuje [zdraví imunitního systému](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/)
 * Může snížit hladinu krevního cukru
 * Dovede odvrátit pocity úzkosti
 * Má protizánětlivé účinky
@@ -63,7 +63,7 @@ Zasaďte (spíš už koupenou) echinaceu do země. Mělo by se tak stát **na p�
 
 ## Vyhledávejte doplňky stravy s jejím obsahem
 
-Jak už bylo řečeno, echinacea se běžně přidává do **potravinových doplňků stravy**. Ty se používají **při léčbě nachlazení**, nebo během **posilování imunity**. V závislosti na tom, jaké jsou vaše zvyklosti, nebo potřeby, si můžete vybrat, které formě doplňku se rozhodnete věnovat svou pozornost.
+Jak už bylo řečeno, echinacea se běžně přidává do **potravinových doplňků stravy**. Ty se používají [**při léčbě nachlazení**](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/), nebo během [**posilování imunity**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/). V závislosti na tom, jaké jsou vaše zvyklosti, nebo potřeby, si můžete vybrat, které formě doplňku se rozhodnete věnovat svou pozornost.
 
 ### Echinaceové kapky
 
