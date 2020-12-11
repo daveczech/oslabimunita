@@ -11,9 +11,9 @@ weight = 1
 
 **Imunitní systém je obranný mechanismus lidského těla, který nás chrání před bakteriemi, viry a dalšími nebezpečnými látkami, které by nás mohly ohrozit. Pokud je zdravý, jsme plní energie a nebýváme nemocní. Současný životní styl tomu ale příliš nenahrává. Proto se mrkneme na několik tipů, jak ho optimálně posílit.**
 
-Na **zdravou imunitu** nepomyslíme, jak je rok dlouhý. Vše se ale radikálně změní s příchodem podzimu a zimy, kdy se v populaci raketově zvýší nemocnost. (Ne nadarmo už od léta slýcháme něco o přípravách na nadcházející **chřipkovou sezónu**.)
+Na **zdravou imunitu** nepomyslíme, jak je rok dlouhý. Vše se ale radikálně změní s příchodem podzimu a zimy, kdy se v populaci raketově zvýší nemocnost. (Ne nadarmo už od léta slýcháme něco o přípravách na [nadcházející **chřipkovou sezónu**](https://www.oslabenaimunita.cz/blog/nejcastejsi-priznaky-chripky-a-jeji-lecba/).)
 
-Proč tomu tak je se můžeme jen domnívat. Nejspíš za to mohou **ne vždy kvalitní hygienické návyky** a **masivní přesun lidí do vnitřních prostor**. Také **máme mnohem méně vitamínu D ze slunečního záření**. Když vezmeme v úvahu, že je dnes považován za velkého bojovníka proti různým nemocem, situace začíná být o poznání jasnější. K tomu přidejme ještě spoustu stresu a **nezdravý životní styl** velké spousty lidí a máme před sebou dokonalý obrázek toho, jak to (ne)funguje.
+Proč tomu tak je se můžeme jen domnívat. Nejspíš za to mohou **ne vždy kvalitní hygienické návyky** a **masivní přesun lidí do vnitřních prostor**. Také **máme mnohem méně vitamínu D ze slunečního záření**. Když vezmeme v úvahu, že je dnes považován za velkého bojovníka [proti různým nemocem](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/), situace začíná být o poznání jasnější. K tomu přidejme ještě spoustu stresu a **nezdravý životní styl** velké spousty lidí a máme před sebou dokonalý obrázek toho, jak to (ne)funguje.
 
 > **_Pokud chcete tento každoroční koloběh změnit ve svůj prospěch, přečtěte si 5 tipů, jak posílit imunitní systém._**
 
@@ -21,7 +21,7 @@ Proč tomu tak je se můžeme jen domnívat. Nejspíš za to mohou **ne vždy kv
 
 ## Zdravá a fungující imunita
 
-Imunitní systém je rozdělen do několika samostatných sekcí. Většina z nás ví, že **imunitní systém sídlí z větší části ve střevech**. V nich se vstřebávají živiny z natráveného jídla a také v nich dochází ke zpracování pevné stravy, kterou tělo nedovede využít.
+[Imunitní systém](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/) je rozdělen do několika samostatných sekcí. Většina z nás ví, že **imunitní systém sídlí z větší části ve střevech**. V nich se vstřebávají živiny z natráveného jídla a také v nich dochází ke zpracování pevné stravy, kterou tělo nedovede využít.
 
 Tento proces je závislý na přátelské mikroflóře, která se stará o to, aby vše fungovalo tak, jak má. Její práci ale mohou komplikovat **nepřátelské bakterie**, které se mohou v extrémním případě přemnožit a ty, které k nám patří, s přehledem porazit. (Což vede k nemocem, ale i k různým zdravotním a trávicím abnormalitám.) Proto bychom měli udělat maximum pro to, aby bylo přátelských mikroorganismů v našem těle vždycky víc než těch, které jim chtějí ublížit.
 
@@ -29,17 +29,17 @@ Další obranný val představují **bílé krvinky**, které zastávají funkci
 
 ### Posílení imunity přírodní cestou - už jste zkoušeli bylinky?
 
-Ať už jde o posílení imunity u dětí, nebo dospělých, můžete vsadit na pomoc pocházející z okolní přírody. Ač se to nezdá, je kolem nás spousta **bylinek**, které mají blahodárný vliv na naše zdraví a na normálně fungující imunitní systém. (POZOR! Ne všechny bylinky jsou vhodné pro děti, těhotné a pro kojící ženy.)
+Ať už jde o posílení imunity u dětí, nebo dospělých, můžete vsadit na pomoc pocházející z okolní přírody. Ač se to nezdá, je kolem nás [spousta **bylinek**](https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/), které mají blahodárný vliv na naše zdraví a na normálně fungující imunitní systém. (POZOR! Ne všechny bylinky jsou vhodné pro děti, těhotné a pro kojící ženy.)
 
 **Skvěle funguje například:**
 
 * Zázvor
 * Heřmánek
-* Echinacea
+* [Echinacea](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/)
 
 ![](/images/echinacea-na-imunitu-1.jpg)
 
-Hodně lidí nedá dopustit ani na účinky **kopřivy dvoudomé**, na **šípky**, **lípu** nebo na **bezinku**, která je plná **vitamínu C**. Co se týče užívání, bylinky nejlépe využijete ve formě čaje, nebo sirupu. Z natrhaných šípků jde dokonce udělat i domácí džem.
+Hodně lidí nedá dopustit ani na účinky **kopřivy dvoudomé**, na **šípky**, **lípu** nebo na **bezinku**, která je plná **vitamínu C**. Co se týče užívání, bylinky nejlépe využijete [ve formě čaje](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/), nebo sirupu. Z natrhaných šípků jde dokonce udělat i domácí džem.
 
 ### Léky a vitamíny
 
@@ -49,8 +49,8 @@ Jejich výhodou je nepochybně to, že **jejich užívání šetří čas** (nem
 
 **Co se týče přímého vlivu na posílení imunitního systému, má smysl se dívat po:**
 
-* Vitamínu C
-* Vitamínu D
+* [Vitamínu C](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/)
+* [Vitamínu D](https://www.oslabenaimunita.cz/blog/vitamin-d3-ochrana-pred-onemocnenim/)
 * Vitamínech skupiny B
 * Zinku
 
