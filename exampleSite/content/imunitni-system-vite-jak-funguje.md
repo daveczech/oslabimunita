@@ -95,7 +95,7 @@ K poruchám imunity ale může dojít i **v důsledku onemocnění** (již zmín
 
 Mezi rizikové faktory patří i **nedostatek spánku**, během kterého se optimalizuje imunitní systém. Nižší obranyschopnost je spojená i s postupným **stárnutím**.
 
-V případě, že lékař vyhodnotí, že trpíte autoimunitní chorobou, je nutné se začít neprodleně léčit. Co se týče onemocnění HIV/AIDS, ačkoliv nejde o léčitelnou nemoc, existují léky, které snižují aktivitu viru v těle. Nemocný tedy může prožít vcelku kvalitní život, jehož délka už prakticky dohnala normální věk dožití.
+V případě, že lékař vyhodnotí, že trpíte autoimunitní chorobou, je nutné se začít neprodleně léčit. Co se týče onemocnění HIV/AIDS, ačkoliv nejde o léčitelnou nemoc, existují léky, které [snižují aktivitu viru v těle](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/). Nemocný tedy může prožít vcelku kvalitní život, jehož délka už prakticky dohnala normální věk dožití.
 
 ## Starejte se o sebe
 
