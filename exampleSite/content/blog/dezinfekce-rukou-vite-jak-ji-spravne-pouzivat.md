@@ -14,7 +14,6 @@ Proto jsme se začali ve velkém vybavovat **příručními dezinfekcemi na ruce
 
 > **_Vše, co jste chtěli o této problematice vědět si proto povíme v následujících několika odstavcích._**
 
-  
 ![jak si správně dezinfikovat ruce](/images/jak-si-spravne-dezinfikovat-ruce.jpg)
 
 ## Jak si správně dezinfikovat ruce
@@ -39,17 +38,17 @@ Pokud přicházíte do styku s mnoha lidmi, nebo potřebujete strávit celé odp
 * Vysušování pokožky rukou
 * Tvorbě atopií a ekzémů
 * Větší odolností bakterií a dalších mikrobů
-* Oslabení imunitního systému (naše těla jsou na určitou míru špíny zvyklá)
+* [Oslabení imunitního systému](https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/) (naše těla jsou na určitou míru špíny zvyklá)
 
 I přes negativní dopady není tento výčet důvodem k tomu, abyste přestali dezinfekční přípravky na ruce používat úplně.
 
-Místo toho začněte přemýšlet o tom, **jak jejich působení kompenzovat v době, kdy je nemusíte použít**. Kdo má atopii, ten se může poradit se svým **dermatologem**. Na suché ruce stačí aplikovat **hydratační a obnovující krém**. Imunitní systém pak můžete podpořit třeba **volně prodejnými doplňky stravy**.
+Místo toho začněte přemýšlet o tom, **jak jejich působení kompenzovat v době, kdy je nemusíte použít**. Kdo má atopii, ten se může poradit se svým **dermatologem**. Na suché ruce stačí aplikovat **hydratační a obnovující krém**. [Imunitní systém](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/) pak můžete [podpořit třeba **volně prodejnými doplňky stravy**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/).
 
 ![výroba vlastní dezinfekce](/images/vyroba-vlastni-dezinfekce.jpg)
 
 ## Výroba domácí dezinfekce na ruce
 
-Co když vám došla dezinfekce na ruce a na novou nemáte buď peníze, nebo ji už nikde nemají? V tom případě si ji můžete vyrobit svépomocí doma. Stačí k tomu využít recepturu, která začala kolovat éterem při první vlně epidemie onemocnění COVID-19.
+Co když vám došla dezinfekce na ruce a na novou nemáte buď peníze, nebo ji už nikde nemají? V tom případě si ji můžete vyrobit svépomocí doma. Stačí k tomu využít recepturu, která začala kolovat éterem při první vlně [epidemie onemocnění COVID-19](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/).
 
 **Budete potřebovat:**
 
