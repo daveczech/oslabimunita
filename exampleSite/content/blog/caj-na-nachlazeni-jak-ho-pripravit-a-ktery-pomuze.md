@@ -10,7 +10,7 @@ type = ""
 
 Už naše babičky velmi dobře věděly, že nejlepším lékem na nemoc je **odpočinek v posteli**, s pořádným kotlem čaje na toaletním stolku. Některé dávaly přednost kupovaným směsím, které stačilo zalít vodou, jiné si je vyráběly svépomocí samy.
 
-I když dnes máme k dispozici moderní **léky na posílení imunity a proti nachlazení**, občas se vyplatí na to jít hezky po staru a využít moudrosti a metod našich předků. Nejen kvůli nostalgii, ale také kvůli tomu, že opravdu fungují.
+I když dnes máme k dispozici moderní **léky** [**na posílení imunity**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/) **a proti nachlazení**, občas se vyplatí na to jít hezky po staru a využít moudrosti a metod našich předků. Nejen kvůli nostalgii, ale také kvůli tomu, že opravdu fungují.
 
 > **_Víte ale, které jsou ty nejlepší?_**
 
@@ -34,19 +34,19 @@ Zázvorový čaj vám mimochodem **pomůže i s léčbou nevolnosti**. Také **m
 
 ### Bylinkový čaj
 
-Někteří lidé nedají dopustit na bylinné směsi, které jim nabízejí širší spektrum účinků. Prodávají se v klasických, ale i ve specializovaných obchodech. (Takové čaje ale nebývají porcované a budete na jejich přípravu potřebovat vlastní čajové sítko.)
+Někteří lidé nedají dopustit na [bylinné směsi](https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/), které jim nabízejí širší spektrum účinků. Prodávají se v klasických, ale i ve specializovaných obchodech. (Takové čaje ale nebývají porcované a budete na jejich přípravu potřebovat vlastní čajové sítko.)
 
 **Vyléčit nachlazení vám pomůže:**
 
 * Bezový čaj
 * Šípkový čaj
-* Čaj z echinacey
+* [Čaj z echinacey](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/)
 * Heřmánkový čaj
 * Kopřivový čaj
 * Mátový čaj
 * Lipový čaj
 
-Kromě toho, že řada z těchto čajů obsahuje **vysoký podíl vitamínu C** (bez, šípek), **mají příznivý vliv na imunitní systém** (echinacea). Kopřivový čaj je vyhledávaný i kvůli tomu, že **podporuje přirozenou očistu těla**.
+Kromě toho, že řada z těchto čajů obsahuje **vysoký podíl** [**vitamínu C**](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/) (bez, šípek), **mají příznivý vliv** [**na imunitní systém**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/) (echinacea). Kopřivový čaj je vyhledávaný i kvůli tomu, že **podporuje přirozenou očistu těla**.
 
 ![bylinkový čaj](/images/bylinkovy-caj-na-nachlazeni.jpg)
 
