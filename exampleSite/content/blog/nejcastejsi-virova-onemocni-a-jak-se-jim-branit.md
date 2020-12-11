@@ -29,8 +29,8 @@ V tomto modulu se pokusíme udělat alespoň základní průřez tím, která on
 **Virové onemocnění je:**
 
 * COVID-19
-* Chřipka
-* Nachlazení
+* [Chřipka]()
+* [Nachlazení](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/)
 * Rotavirová infekce
 * Norovirová infekce
 * Zarděnky
@@ -54,7 +54,7 @@ S předchozího seznamu také dále vyplývá, že řada z těchto nemocí se ni
 
 Nejlepší a zároveň zatím jediný opravdu ověřený způsob, jak se těmto nemocem vyhnout je **zdravý rozum**, **silná imunita** a **prevence**. Samozřejmě, ani to vás nemusí v některých okamžicích spasit, ale alespoň nepůjdete komplikacím naproti.
 
-**Co se týká posilování imunitního systému, pomáhá:**
+**Co se týká** [**posilování imunitního systému**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/)**, pomáhá:**
 
 * Spánek
 * Zdravý jídelníček
@@ -68,7 +68,7 @@ Nejlepší a zároveň zatím jediný opravdu ověřený způsob, jak se těmto 
 * Stranění se nemocných
 * Zřeknutí se neřestí (drogy, kouření, alkohol)
 * Pravidelná kontrola u praktika, nebo jiného lékaře
-* Zdravý pitný režim (zastoupený bylinkovými čaji a čistou vodou)
+* Zdravý pitný režim (zastoupený [bylinkovými čaji](https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/) a čistou vodou)
 
 ![](/images/posilujte-imunitu.jpg)
 
@@ -78,9 +78,9 @@ Dávejte také dobrý pozor na to, abyste **nepřišli do kontaktu s nakaženým
 
 ### Používejte dezinfekci a myjte si ruce
 
-Úplně tou nejzákladnější věcí, kterou pro sebe můžete udělat je to, že budete mít stále při ruce kvalitní **dezinfekci na ruce**, kterou použijete ve chvíli, kdy nemáte stálý přístup k vodě.
+Úplně tou nejzákladnější věcí, kterou pro sebe můžete udělat je to, že budete mít stále při ruce kvalitní [**dezinfekci na ruce**](https://www.oslabenaimunita.cz/blog/dezinfekce-rukou-vite-jak-ji-spravne-pouzivat/), kterou použijete ve chvíli, kdy nemáte stálý přístup k vodě.
 
-Na plné čáře to ale vždycky vyhraje **umývání rukou**. K němu by mělo docházet po příchodu domů, po použití toalety, před jídlem, nebo po vynášení odpadků. Máte-li rýmu, nebo jste jinak nemocní, umyjte si ruce i po každém použití kapesníku. (Aby to nemuselo být každých deset minut, použijte dezinfekci.) Aby byly ruce opravdu čisté, **použijte teplou vodu s mýdlem**. To naneste na celé dlaně a hřbety až k zápěstím a mezi prsty obou rukou.
+Na plné čáře to ale vždycky vyhraje **umývání rukou**. K němu by mělo docházet po příchodu domů, po použití toalety, před jídlem, nebo po vynášení odpadků. [Máte-li rýmu](https://www.oslabenaimunita.cz/blog/vite-jak-se-zbavit-rymy-vyzkousejte-tyto-3-tipy/), nebo jste jinak nemocní, umyjte si ruce i po každém použití kapesníku. (Aby to nemuselo být každých deset minut, použijte dezinfekci.) Aby byly ruce opravdu čisté, **použijte teplou vodu s mýdlem**. To naneste na celé dlaně a hřbety až k zápěstím a mezi prsty obou rukou.
 
 ![dezinfekce a mytí rukou](/images/dezinfekce-a-myti-rukou.jpg)
 
@@ -88,4 +88,4 @@ V případě, že máte pocit, že dezinfekce, nebo umývání vysušuje pokožk
 
 ## Závěr
 
-Virová onemocnění **jsou všude kolem nás**. Zatímco některá hrozí jen lidem, kteří holdují rizikovému chování, jiná ohrožují všechny. Ačkoliv se ne vždy cíleně léčí, nelze o všech z nich říct, že by byla neškodná. Z toho důvodu určitě **nic nepokazíte tím, když se budete věnovat účinné prevenci a posilování imunitního systému**.
+Virová onemocnění **jsou všude kolem nás**. Zatímco některá hrozí jen lidem, kteří holdují rizikovému chování, jiná ohrožují všechny. Ačkoliv se ne vždy cíleně léčí, nelze o všech z nich říct, že by byla neškodná. Z toho důvodu určitě **nic nepokazíte tím, když se budete věnovat účinné prevenci a posilování** [**imunitního systému**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/).
