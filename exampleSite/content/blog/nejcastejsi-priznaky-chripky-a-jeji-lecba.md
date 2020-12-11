@@ -10,7 +10,7 @@ type = ""
 
 Jakmile se udělá větší tma a chladněji, najednou se vyrojí početná skupina lidí, kteří tvrdí, že onemocněli **chřipkou**. Je ale mnohem pravděpodobnější, že chytli obyčejnou **náchladu**, která po několika dnech v posteli nakonec odezní. (Je to podobné, jako když o každém splínu tvrdíme, že je to deprese.)
 
-V první řadě je tedy nutné začít dělat mezi těmito dvěma jevy rozdíl. **Chřipka je velmi vážné onemocnění**, které může způsobit (i dosud zdravým lidem) těžké komplikace, kvůli kterým mohou skončit v nemocnici. Seniorům a chronicky nemocným lidem zase může chřipka způsobit dokonce i smrt.
+V první řadě je tedy nutné začít dělat mezi těmito dvěma jevy rozdíl. **Chřipka je** [**velmi vážné onemocnění**](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/), které může způsobit (i dosud zdravým lidem) těžké komplikace, kvůli kterým mohou skončit v nemocnici. Seniorům a chronicky nemocným lidem zase může chřipka způsobit dokonce i smrt.
 
 > **_Abyste věděli, zda je nutné se svým zdravotním stavem nějak znepokojovat, či nikoliv, podívejte se na všechny důležité informace o chřipce, které byste měli vědět._**
 
@@ -41,13 +41,13 @@ Nyní se konečně dostáváme k tomu, abychom si řekli, jak pravou chřipku po
 * Citlivýma očima
 * Kýcháním
 
-**Oproti nachlazení není u chřipky běžným příznakem rýma**.
+**Oproti nachlazení není u chřipky** [**běžným příznakem rýma**](https://www.oslabenaimunita.cz/blog/vite-jak-se-zbavit-rymy-vyzkousejte-tyto-3-tipy/).
 
 ![příznaky chřipky](/images/horecka-chripka.jpg)
 
 ### Oslabená imunita
 
-To, zda onemocníme chřipkou, nebo budeme zdraví, závisí na mnoha různých faktorech. Jedním z nich je i **stav našeho imunitního systému**. Oslabená imunita vede k nižší obranyschopnosti a tím pádem i k častější nemocnosti.
+To, zda onemocníme chřipkou, nebo budeme zdraví, závisí na mnoha různých faktorech. Jedním z nich je i **stav našeho** [**imunitního systému**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/). [Oslabená imunita](https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/) vede k nižší obranyschopnosti a tím pádem i k častější nemocnosti.
 
 Také v takovém případě hrozí, že u vás bude mít chřipka **horší průběh**, který **může vést až k hospitalizaci v nemocnici**. Případně i **k úmrtí**, či jiným nežádoucím následkům.
 
@@ -61,7 +61,7 @@ Také v takovém případě hrozí, že u vás bude mít chřipka **horší prů
 * Cvičit
 * Jíst zdravě
 
-Pokud je to potřeba, můžete vsadit na blahodárný **účinek některých bylin**. (Echinacea, lípa, ženšen, zázvor, kopřiva dvoudomá, šípek…) Vhodné pro vás budou i **přírodní doplňky stravy s vitamínem C**, **vitamínem E**, s **vitamíny skupiny B** a **s vitamínem D**, který je v současnosti považován za dobrého spojence v boji proti nemocem. (Normálně ho získáváme ze slunečního záření, ale v zimě při jeho nedostatku si ho musíme dopřávat z jiných zdrojů.)
+Pokud je to potřeba, můžete vsadit na blahodárný **účinek některých bylin**. ([Echinacea](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/), lípa, ženšen, zázvor, kopřiva dvoudomá, šípek…) Vhodné pro vás budou i **přírodní doplňky stravy s** [**vitamínem C**](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), **vitamínem E**, s **vitamíny skupiny B** a **s** [**vitamínem D**](https://www.oslabenaimunita.cz/blog/vitamin-d3-ochrana-pred-onemocnenim/), který je v současnosti považován za dobrého spojence v boji proti nemocem. (Normálně ho získáváme ze slunečního záření, ale v zimě při jeho nedostatku si ho musíme dopřávat z jiných zdrojů.)
 
 ![vitamín c na chřipku](/images/vitamin-c-na-chripku.jpg)
 
@@ -73,7 +73,7 @@ Domácích metod na léčbu chřipky existuje spousta. Pokud vám ale smíme rad
 
 * Zachovat klid na lůžku
 * Omezit sociální kontakt
-* Pít dostatek tekutin (ideální jsou bylinkové čaje)
+* Pít dostatek tekutin (ideální jsou [bylinkové čaje](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/))
 * Konzumace kvalitních vývarů
 * Zvýšení denního příjmu zinku (červené maso, vejce, cizrna…)
 * Kloktání slané vody
@@ -98,4 +98,4 @@ Naopak se vyhněte nápojům, které obsahují **alkohol a kofein**. Vhodné nem
 
 ## Posilujte imunitu
 
-Chřipka rozhodně není banální nemoc. Proto dbejte na to, abyste měli **silný imunitní systém**, který si dovede poradit s každou útočící infekcí. V případě, že chřipkou nakonec onemocníte, existuje zde poměrně velká šance, že u vás bude mít mírnější průběh. Aby se ale tento scénář naplnil, je nutné začít něco dělat.
+Chřipka rozhodně není banální nemoc. Proto [dbejte na to, abyste měli **silný imunitní systém**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/), který si dovede poradit s každou útočící infekcí. V případě, že chřipkou nakonec onemocníte, existuje zde poměrně velká šance, že u vás bude mít mírnější průběh. Aby se ale tento scénář naplnil, je nutné začít něco dělat.
