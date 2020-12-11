@@ -8,11 +8,11 @@ type = ""
 +++
 **Pokud jste nemocní, nebo dokonce po operaci, čeká vás období rekonvalescence, během kterého se vše postupně vrátí do normálního stavu. Někdy ale nemáme čas na to dlouho čekat. Případně nás už unavuje, že se vyléčíme a za chvíli jsme opět nemocní v posteli. Proto se mrkneme na to, co vše pro vás může udělat lék Wobenzym.**
 
-Určitě to znáte ze svého vlastního života, nebo od někoho z okolí. Jakmile se vyléčíte z nachlazení, nebo z jiné nemoci, jdete na několik dní do práce a prakticky ihned ulehnete zase s něčím jiným.
+Určitě to znáte ze svého vlastního života, nebo od někoho z okolí. Jakmile se [vyléčíte z nachlazení](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/), nebo z jiné nemoci, jdete na několik dní do práce a prakticky ihned ulehnete zase s něčím jiným.
 
 Kromě toho, že se to odrazí na vaší psychice to může mít **negativní vliv na váš rodinný rozpočet**. Ať už čerpáte peníze od zaměstnavatele, nebo ze zdravotního systému, přijdete si jen na zlomek částky, na kterou byste měli nárok za odvedenou práci. (Také vám hrozí, že se s vámi váš zaměstnavatel při první příležitosti rozloučí.)
 
-Copak se ale dá **imunitnímu systému** a jeho zdraví nějak poručit? Možná ano. Pomoci by vám s tím mohl **Wobenzym**.
+Copak se ale dá [**imunitnímu systému**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/) a jeho zdraví nějak poručit? Možná ano. Pomoci by vám s tím mohl **Wobenzym**.
 
 ![wobenzym recenze](/images/wobenzym-recenze.jpg)
 
@@ -31,11 +31,11 @@ Vzhledem k tomu, že je Wobenzym na trhu už přes 50 let (nejprve byl dostupný
 
 ### Wobenzym na oslabenou imunitu
 
-V období **chřipkových epidemií** a nejrůznějších **náchlad** se po něm hodí sáhnout také. Wobenzym totiž **podporuje normální stav a fungování imunitního systému**.
+[V období **chřipkových epidemií**](https://www.oslabenaimunita.cz/blog/nejcastejsi-priznaky-chripky-a-jeji-lecba/) a nejrůznějších **náchlad** se po něm hodí sáhnout také. Wobenzym totiž [**podporuje normální stav a fungování imunitního systému**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/).
 
 ![wobenzym na imunitu](/images/wobenzym-na-imunitu.jpg)
 
-Tento lék vám **pomůže s léčbou zánětů dýchacích cest**. A nezáleží na tom, zda jde o ty způsobené bakteriemi, nebo viry. Také ho můžete vyzkoušet **krátce po vyléčení nemoci**, protože přispívá k rychlejšímu návratu do normálního života. (A taktéž k tomu, aby se vám nemoc opět nevrátila zpět.)
+Tento lék vám **pomůže s léčbou zánětů dýchacích cest**. A nezáleží na tom, zda jde o ty způsobené [bakteriemi, nebo viry](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/). Také ho můžete vyzkoušet **krátce po vyléčení nemoci**, protože přispívá k rychlejšímu návratu do normálního života. (A taktéž k tomu, aby se vám nemoc opět nevrátila zpět.)
 
 Účinný je například při zvládání angíny, zánětu průdušek, při zánětech dutin nebo po léčbě antibiotiky.
 
