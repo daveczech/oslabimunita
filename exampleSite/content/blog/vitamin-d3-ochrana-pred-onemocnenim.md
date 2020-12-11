@@ -10,7 +10,7 @@ type = ""
 
 Vitamíny, minerální látky a stopové prvky by měly být nedílnou součástí naší každodenní stravy. Díky nim nám **rostou vlasy a nové kožní buňky, vznikají hormony** nebo jsme díky nim schopni použít **energii z jídla**.
 
-Vitamíny jsou ale extrémně důležité i pro náš **imunitní systém**, který je pak lépe připraven vzdorovat nejrůznějším virózám a nemocem. I když vás v tomto kontextu nejspíš napadne užívání **vitamínu C**, přečtěte si také něco o účincích **vitamínu D**. Jsme si jistí, že vás mile překvapí.
+Vitamíny jsou ale extrémně důležité i pro náš **imunitní systém**, který je pak lépe připraven vzdorovat [nejrůznějším virózám a nemocem](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/). I když vás v tomto kontextu nejspíš napadne [užívání **vitamínu C**](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), přečtěte si také něco o účincích **vitamínu D**. Jsme si jistí, že vás mile překvapí.
 
 ![vitamín d3 proti onemocnění](/images/vitamin-d3-proti-onemocneni.jpg)
 
@@ -20,7 +20,7 @@ Vitamín D není ani tak vitamín, jako spíše hormon. V těle **ovlivňuje až
 
 Pokud vás zajímá, jaké jsou mezi těmito dvěma čísly rozdíly, řekli bychom, že prakticky žádné. Vše vychází z domněnek odborníků, kteří tvrdili, že **vitamín D3 člověku poskytuje mnohem větší kvalitu**. V současné době však začínají sílit názory, že jsou oba vitamíny D na stejné kvalitativní úrovni.
 
-A proč bychom ho měli (například během sezóny nachlazení) užívat? Především proto, že je důležitý pro **normální fungování imunitního systému**. Nedostatek vitamínu D je taktéž spojován s větší náchylností k akutním respiračním infekcím a chřipce.
+A proč bychom ho měli (například [během sezóny nachlazení](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/)) užívat? Především proto, že je důležitý pro **normální fungování** [**imunitního systému**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/). Nedostatek vitamínu D je taktéž spojován s větší náchylností k akutním respiračním infekcím a chřipce.
 
 ### Účinky vitamínu D3
 
@@ -28,7 +28,7 @@ Mezi nejznámější schopnosti vitamínu D patří **ochrana kostí a zubů**. 
 
 **Dále je spojován s:**
 
-* Prevencí chřipky
+* [Prevencí chřipky](https://www.oslabenaimunita.cz/blog/nejcastejsi-priznaky-chripky-a-jeji-lecba/)
 * Udržováním zdravého těhotenství
 * Pozitivní náladou
 
