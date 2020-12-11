@@ -16,9 +16,9 @@ I když máme často pocit, že se těmto jevům nedovedeme ubránit (zvlášť,
 
 ## Pomocník při oslabené imunitě
 
-Vitamín C je látka, která je zodpovědná za **normální fungování imunitního systému**. Vzhledem k tomu, že je to **silný antioxidant**, chrání buňky těla před nadměrným poškozováním. Také **dovede bojovat proti infekcím**, takže podporuje hojení a zkracuje dobu rekonvalescence.
+Vitamín C je látka, která je zodpovědná za [**normální fungování imunitního systému**](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/). Vzhledem k tomu, že je to **silný antioxidant**, chrání buňky těla před nadměrným poškozováním. Také **dovede bojovat proti infekcím**, takže podporuje hojení a zkracuje dobu rekonvalescence.
 
-Byla by ale chyba se domnívat, že vitamín C potřebujeme jen ve **chřipkovém období**. Tělu bychom ho měli poskytovat v průběhu celého roku. A to z mnoha dalších důvodů, z nichž některé si osvětlíme níže.
+Byla by ale chyba se domnívat, že vitamín C potřebujeme jen ve [**chřipkovém období**](https://www.oslabenaimunita.cz/blog/nejcastejsi-priznaky-chripky-a-jeji-lecba/). Tělu bychom ho měli poskytovat v průběhu celého roku. A to z mnoha dalších důvodů, z nichž některé si osvětlíme níže.
 
 ### Účinky
 
@@ -60,7 +60,7 @@ To, že vitamín C získáváme ze stravy je jedna věc. Ne vždy jsme ale schop
 
 ![doplňky stravy na imunitu](/images/doplnky-stravy-na-imunitu.jpg)
 
-Aby vše fungovalo přesně tak, jak to zamýšlela příroda, rozhodně neuděláte chybu, když vsadíte na **přírodní doplňky stravy pro podporu imunity**, ve kterých je vše, co naše těla potřebují ke zdraví. Speciálně se dívejte po těch, které obsahují i bylinky, jako je například **echinacea**.
+Aby vše fungovalo přesně tak, jak to zamýšlela příroda, rozhodně neuděláte chybu, když vsadíte na **přírodní doplňky stravy** [**pro podporu imunity**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/), ve kterých je vše, co naše těla potřebují ke zdraví. Speciálně se dívejte po těch, [které obsahují i bylinky](https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/), jako je [například **echinacea**](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/).
 
 ## Vitamíny a zdraví
 
