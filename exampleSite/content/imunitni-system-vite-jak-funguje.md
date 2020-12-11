@@ -13,7 +13,7 @@ weight = 2
 
 Jak už bylo řečeno, **bez funkční imunity bychom podlehli první cizorodé látce** (bakterii, viru), která by se na nás rozhodla zaútočit. Pravda je ale taková, že místo toho, abychom za to byli vděční, chováme se k ní dost macešsky.
 
-V mládí to až tak moc nevadí, protože jsme plní sil a jediná věc, která nás může na pár dnů vyřadit z provozu je **chřipka**. Když však v našem počínání pokračujeme i nadále, **vede to k oslabenému imunitnímu systému**, který pak nedovede čelit banálnějším hrozbám. Které mohou být v konečném důsledku i **smrtelné**.
+V mládí to až tak moc nevadí, protože jsme plní sil a jediná věc, která nás může na pár dnů vyřadit z provozu je **chřipka**. Když však v našem počínání pokračujeme i nadále, [**vede to k oslabenému imunitnímu systému**](https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/), který pak nedovede čelit banálnějším hrozbám. Které mohou být v konečném důsledku i **smrtelné**.
 
 > **_Abyste měli lepší představu o tom, jak to celé funguje, podíváme se na podrobnosti o imunitě, o kterých vám dozajista nikdo neřekl. A to ani při hodinách biologie ve škole._**
 
@@ -48,7 +48,7 @@ Ačkoliv náš **přirozený imunitní systém** není zcela dokonalý, při ná
 * Sliz
 * Soubor enzymů
 
-Ke zlepšení imunity novorozence slouží i kojení.
+[Ke zlepšení imunity](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/) novorozence slouží i kojení.
 
 ### Získaná imunita
 
@@ -60,7 +60,7 @@ V obou případech se tělo naučí rozeznávat hrozbu pro případ, že by se s
 
 ## Selhání imunitního systému
 
-Selhání imunitního systému nebývá za normálních okolností běžné. (Nikoliv však nemožné.) Někdo se s touto vadou již narodí, v jiných případech jde o jev, který je způsobený nemocí, nebo dlouhodobě neudržitelným životním stylem.
+Selhání imunitního systému nebývá za normálních okolností běžné. (Nikoliv však nemožné.) Někdo se s touto vadou již narodí, v jiných případech jde o jev, [který je způsobený nemocí](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/), nebo dlouhodobě neudržitelným životním stylem.
 
 **Fungování imunitního systému může poškodit například:**
 
