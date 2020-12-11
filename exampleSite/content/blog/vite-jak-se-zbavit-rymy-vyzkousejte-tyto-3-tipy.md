@@ -22,7 +22,7 @@ Rýmou můžete trpět z mnoha různých důvodů. Může být doprovázena **ot
 
 Ten je v nějaké míře v nose přítomen i normálně. Jeho primární funkcí je **ochrana sliznic** a **zvlhčování vzduchu**, který vdechneme. Zároveň jde o bariéru, která **zhoršuje přístup cizích patogenů do dýchacího ústrojí a plic**. Kde se ho ale najednou vezme tolik, když ho za normálních okolností vůbec nepostřehneme?
 
-Je to jednoduché. V případě, že se v našem nose **nahromadí patogeny** (třeba prach, nebo pyl), může dojít k **infekci**, která si žádá zvýšenou tvorbu hlenu. Nejen z důvodu ochrany, ale i kvůli snadnějšímu vypuzení cizorodých látek. Což je důvod, proč bychom si měli po smrkání důkladně **umýt**, nebo **vydezinfikovat ruce**. Jinak se může stát, že si škodlivinu zaneseme do očí, na obličej nebo do pusy spolu s jídlem.
+Je to jednoduché. V případě, že se v našem nose **nahromadí patogeny** (třeba prach, nebo pyl), může dojít k **infekci**, která si žádá zvýšenou tvorbu hlenu. Nejen z důvodu ochrany, ale i kvůli snadnějšímu vypuzení cizorodých látek. Což je důvod, proč bychom si měli po smrkání důkladně **umýt**, nebo [**vydezinfikovat ruce**](https://www.oslabenaimunita.cz/blog/dezinfekce-rukou-vite-jak-ji-spravne-pouzivat/). Jinak se může stát, že si škodlivinu zaneseme do očí, na obličej nebo do pusy spolu s jídlem.
 
 ## 3 tipy, jak se zbavit rýmy
 
@@ -30,9 +30,9 @@ Když už nyní víme, jak vzniká rýma, mrkneme se na to, jak se jí co nejryc
 
 ### Bylinky a bylinné čaje
 
-První variantou, kterou by nám vřele doporučily i naše babičky, jsou bylinky a popíjení bylinných čajů. A to z mnoha důvodů.
+První variantou, kterou by nám vřele doporučily i naše babičky, [jsou bylinky](https://www.oslabenaimunita.cz/4-nejucinnejsi-bylinky-na-podporu-imunity/) a popíjení bylinných čajů. A to z mnoha důvodů.
 
-V první řadě tělu dodáme **dostatek tekutin**, které využije jak při normálním fungování, tak během boje s infekcí. Dalším důvodem je, že **pomalé usrkávání teplého čaje uvolňuje dýchací cesty**, které se tak (zevnitř) trochu napaří. Tím se mechanicky uvolní hlen, který je mnohem snazší vysmrkat. V neposlední řadě, bylinky **mají příznivý vliv na posilování imunitního systému**. Což je při boji s rýmou jednoznačně potřeba.
+V první řadě tělu dodáme **dostatek tekutin**, které využije jak při normálním fungování, tak během boje s infekcí. Dalším důvodem je, že **pomalé usrkávání teplého čaje uvolňuje dýchací cesty**, které se tak (zevnitř) trochu napaří. Tím se mechanicky uvolní hlen, který je mnohem snazší vysmrkat. V neposlední řadě, bylinky **mají příznivý vliv na** [**posilování imunitního systému**](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/). Což je při boji s rýmou jednoznačně potřeba.
 
 ![](/images/bylinky-na-rymu.jpg)
 
@@ -43,7 +43,7 @@ V první řadě tělu dodáme **dostatek tekutin**, které využije jak při nor
 * Heřmánek
 * Mátu
 * Šípek
-* Echinaceu
+* [Echinaceu](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/)
 
 To, zda se rozhodnete pro porcovaný, lístkový nebo doma vyrobený čaj (z nastrouhaného kořene) je jen na vás.
 
@@ -70,7 +70,7 @@ Při vaření jste si možná všimli, že vám slzí oči a trochu kape z nosu.
 
 Ano, i ne. Dost záleží na tom, jak celou věc pojmete. Někdo tvrdí, že k vyléčení stačí dát kus syrové cibule do místnosti s nemocným a ona do sebe pohltí patogeny a škodlivé látky. Což je samozřejmě nesmysl, který se nezakládá na pravdě.
 
-Když ale zvolíte její **vnitřní použití**, rozhodně to bude mít na vaše celkové zdraví nějaký měřitelný efekt. Především proto, že cibule obsahuje **vitamíny skupiny B**, **vitamín C**, **vitamín D** a **vitamín E**. Plus spoustu dalších tělu prospěšných látek.
+Když ale zvolíte její **vnitřní použití**, rozhodně to bude mít na vaše celkové zdraví nějaký měřitelný efekt. Především proto, že cibule obsahuje **vitamíny skupiny B**, [**vitamín C**](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), [**vitamín D**](https://www.oslabenaimunita.cz/blog/vitamin-d3-ochrana-pred-onemocnenim/) a **vitamín E**. Plus spoustu dalších tělu prospěšných látek.
 
 Pokud se vám její konzumace v syrovém stavu příčí, zkuste si z ní uvařit **cibulový čaj**. Pomoci vám může i kvalitní **cibulová polévka**, nebo **cibulový sirup**. Naše babičky nedaly dopustit ani na **cibuli s medem**. Je tedy na vás, jakou formu cibulové léčby zvolíte.
 
@@ -86,4 +86,4 @@ Z toho důvodu byste se měli o správném používání nosních sprejů poradi
 
 ## Tradiční způsob léčby
 
-Jak lze z předchozích několika odstavců soudit, nejrychlejší řešení nemusí být zároveň to nejlepší. Kdykoliv budete trpět nějakou formou rýmy, snažte se najít její příčinu a zvolte tradiční způsob léčby. Pokud ho ještě podpoříte užíváním volně prodejných doplňků stravy na podporu imunity, tím lépe.
+Jak lze z předchozích několika odstavců soudit, nejrychlejší řešení nemusí být zároveň to nejlepší. Kdykoliv budete trpět nějakou formou rýmy, snažte se najít její příčinu a zvolte tradiční způsob léčby. Pokud ho ještě podpoříte užíváním volně prodejných doplňků stravy [na podporu imunity](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/), tím lépe.
