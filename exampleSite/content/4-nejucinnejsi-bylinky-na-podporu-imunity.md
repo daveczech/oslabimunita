@@ -11,7 +11,7 @@ weight = 4
 
 **Když se vám neudělá dobře, vezmete si lék a počkáte, až zabere. Příště pak jednáte v podobném duchu. Bez toho, abyste přemýšleli o tom, zda tento zvyk nemá negativní dopady na vaše celkové zdraví. Pokud pro sebe chcete udělat něco navíc, příště vsaďte na přírodní sílu těchto několika bylinek!**
 
-**Oslabená imunita** je (bez nadsázky) zlo. Nejen, že je zodpovědná za to, že jsme častěji nemocní a necítíme se ani trochu dobře, ale **má i celou řadu společenských dopadů**. Když jsme nemocní, každý se nás straní. Což vede k pocitu izolace a odloučení. Také můžeme nakazit další členy rodiny. Takže, jakmile se uzdravíme, musíme zůstat doma a dát jim náležitou péči.
+[**Oslabená imunita**](https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/) je (bez nadsázky) zlo. Nejen, že je zodpovědná za to, že jsme častěji nemocní a necítíme se ani trochu dobře, ale **má i celou řadu společenských dopadů**. Když jsme nemocní, každý se nás straní. Což vede k pocitu izolace a odloučení. Také můžeme nakazit další členy rodiny. Takže, jakmile se uzdravíme, musíme zůstat doma a dát jim náležitou péči.
 
 Zapomínat ale nesmíme ani na **výpadek příjmů** a na **riziko ztráty zaměstnání**. Hlavně v případě, kdy máme dlouhodobou absenci. (Proč by nás chtěl někdo zaměstnávat, když neděláme to, co bychom měli?) Jak tedy sami jistě vidíte, **jde o velmi pádné důvody, proč se o sebe začít trochu lépe starat**. Má ale cenu brát chemické léky na podporu imunity, které viděly přírodní složky pouze z rychlíku?
 
@@ -23,20 +23,20 @@ Zapomínat ale nesmíme ani na **výpadek příjmů** a na **riziko ztráty zam�
 
 Není tomu tak dávno, co se lidé museli spokojit s **domácími přípravky na podporu imunity**. Neexistovaly totiž nemocnice (a pokud ano, nebyly pro každého dostupné), vědecká pracoviště ani specializované laboratoře, ve kterých by se vyráběly doplňky stravy, nebo léky.
 
-Z toho důvodu byla skoro v každé vesnici **babka kořenářka**, která oplývala bohatými znalostmi nemocí a bylin, které na ně působí. Díky svým rozsáhlým zkušenostem tedy dokázala dobře poradit. Třeba i v problematice kombinování rostlin a s jejich správným dávkováním.
+Z toho důvodu byla skoro v každé vesnici **babka kořenářka**, která oplývala bohatými [znalostmi nemocí](https://www.oslabenaimunita.cz/blog/nejcastejsi-virova-onemocni-a-jak-se-jim-branit/) a bylin, které na ně působí. Díky svým rozsáhlým zkušenostem tedy dokázala dobře poradit. Třeba i v problematice kombinování rostlin a s jejich správným dávkováním.
 
 Jelikož je řada znalostí těchto žen stále platná, podíváme se, jak mohou být nápomocné lidem ve 21. století.
 
 ### Echinacea
 
-Echinaceu pozná téměř každý. Jde o rostlinu s nafialovělými listy, kterou používali už **původní obyvatelé Ameriky**. Vzhledem k širokospektrálním účinkům a dobré snášenlivosti se výtažky z ní používají při výrobě kapek, čajů, potravinových doplňků a sirupů, které posilují zdraví lidského imunitního systému.
+[Echinaceu pozná téměř každý](https://www.oslabenaimunita.cz/blog/echinacea-vyresi-vase-problemy-s-imunitou/). Jde o rostlinu s nafialovělými listy, kterou používali už **původní obyvatelé Ameriky**. Vzhledem k širokospektrálním účinkům a dobré snášenlivosti se výtažky z ní používají při výrobě kapek, čajů, potravinových doplňků a sirupů, které posilují zdraví lidského imunitního systému.
 
 ![](/images/echinacea-na-posileni-imunity.jpg)
 
 **Echinacea je ceněná kvůli:**
 
 * Vysokému podílu antioxidantů
-* Schopnosti posílit imunitní systém
+* [Schopnosti posílit imunitní systém](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/)
 * Schopnosti snížit hladinu krevního cukru
 * Protizánětlivým účinkům
 * Příznivým účinkům na úzkost
@@ -45,7 +45,7 @@ Je ale potřeba myslet na to, že i když jde o rostlinu s pozitivními dopady n
 
 ### Rakytník
 
-Další bylinkou na imunitu, se kterou se v poslední době hojně setkáváme, je rakytník. Poznáme ho podle **oranžových bobul**í, které jsou napěchované spoustou vitamínů (**vitamín C**, **vitamín E**) a dalšími prospěšnými látkami, které mají blahodárný vliv na naše celkové zdraví.
+Další bylinkou na imunitu, se kterou se v poslední době hojně setkáváme, je rakytník. Poznáme ho podle **oranžových bobul**í, které jsou napěchované spoustou vitamínů ([**vitamín C**](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), **vitamín E**) a dalšími prospěšnými látkami, které mají blahodárný vliv na naše celkové zdraví.
 
 ![](/images/rakytnik-na-imunitu.jpg)
 
@@ -72,7 +72,7 @@ Pokud bychom hledali nějakou bylinu s velmi dobrým renomé, pak by to byl žen
 * Snižování zánětů
 * Fungování mozku
 * Léčbu erektilní dysfunkce
-* Podporu imunitního systému
+* Podporu [imunitního systému](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/)
 * Celkovou vitalitu a úroveň životní energie
 * Normální hladinu krevního cukru
 
@@ -99,4 +99,4 @@ Co se týče rizik, šípek je považován za neškodný. O jeho používání b
 
 ## Přírodní podpora imunity
 
-Příště, až budete chtít **podpořit svůj imunitní systém**, nebo se budete potřebovat vyléčit ze **sezónního nachlazení**, už víte, po kterých bylinkách máte začít sahat. Pomohou vám buď samostatně, nebo v libovolných kombinacích ve formě čajů, nebo volně prodejných doplňků stravy.
+Příště, až budete chtít **podpořit svůj imunitní systém**, nebo se budete potřebovat vyléčit ze [**sezónního nachlazení**](https://www.oslabenaimunita.cz/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze/), už víte, po kterých bylinkách máte začít sahat. Pomohou vám buď samostatně, nebo v libovolných kombinacích ve formě čajů, nebo volně prodejných doplňků stravy.
