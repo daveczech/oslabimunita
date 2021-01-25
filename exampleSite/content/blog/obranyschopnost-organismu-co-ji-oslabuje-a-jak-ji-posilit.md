@@ -1,7 +1,6 @@
 +++
 date = 2021-01-24T23:00:00Z
 description = "Téměř nikdo si neláme hlavu s tím, že jsme každý den pod neviditelnou palbou patogenů a bacilů. Víte, jak funguje obranyschopnost?"
-draft = true
 image = "/images/obranyschopnost-organismu.jpg"
 title = "Obranyschopnost organismu: Co ji oslabuje a jak ji posílit"
 type = ""
