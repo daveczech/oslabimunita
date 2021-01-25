@@ -1,7 +1,6 @@
 +++
 date = 2021-01-24T23:00:00Z
 description = ""
-draft = true
 image = "/images/krev-ve-stolici.jpg"
 title = "Krev ve stolici: Nejčastější příčiny a léčba"
 type = ""
