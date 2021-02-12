@@ -1,7 +1,6 @@
 +++
 date = 2021-02-11T23:00:00Z
 description = "V období chřipky, ale i při dlouhodobém stresu, je velmi důležité cílené posílení imunity. Kozí kolostrum na imunitu je dobrým pomocníkem."
-draft = true
 image = "/images/kozi-kolostrum-na-imunitu.jpg"
 title = "Kozí kolostrum na podporu imunity"
 type = ""
