@@ -6,9 +6,9 @@ title = "Kozí kolostrum na podporu imunity"
 type = ""
 
 +++
-**V období chřipky, ale i při dlouhodobém stresu, je velmi důležité cílené posílení imunity. Někdo na to jde konzumací citrusových plodů, jiný zase zatne zuby a zkusí otužování v ledové vodě. Další variantou, kterou můžete vyzkoušet, je užívání přípravků s kozím kolostrem. Víte, nač je dobré?**
+**V** [**období chřipky**](https://www.oslabenaimunita.cz/blog/nejcastejsi-priznaky-chripky-a-jeji-lecba/)**, ale i při dlouhodobém stresu, je velmi důležité cílené posílení imunity. Někdo na to jde konzumací citrusových plodů, jiný zase zatne zuby a zkusí otužování v ledové vodě. Další variantou, kterou můžete vyzkoušet, je užívání přípravků s kozím kolostrem. Víte, nač je dobré?**
 
-Ve škole jsme se učili o **savcích**. Jde o skupinu, jejíž mláďata sají mateřské mléko. Jak víme, týká se to i lidí. Proto se na nás neustále hrnou informace o tom, jak je důležité **kojení**. Jeho prostřednictvím matka vyživuje mládě a předává mu látky, které prospívají budování silného imunitního systému.
+Ve škole jsme se učili o **savcích**. Jde o skupinu, jejíž mláďata sají mateřské mléko. Jak víme, týká se to i lidí. Proto se na nás neustále hrnou informace o tom, jak je důležité **kojení**. Jeho prostřednictvím matka vyživuje mládě a předává mu látky, které prospívají [budování silného imunitního systému](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/).
 
 Věřte tomu, nebo ne, ale součástí tohoto procesu je i kolostrum, které matky produkují v období, které se točí okolo porodu. Obecně se mu říká **mlezivo** a jde o jednu z první nutričně bohatých tekutin, které se nově narozenému dostane. Jelikož by ale užívání lidského kolostra bylo velmi diskutabilní, často se přistupuje ke zpracování toho kozího. Které můžete vyzkoušet i vy.
 
@@ -20,7 +20,7 @@ Věřte tomu, nebo ne, ale součástí tohoto procesu je i kolostrum, které mat
 
 Jak už bylo řečeno v předchozích několika odstavcích, kozí kolostrum je v podstatě to stejné, co lidské. Jde o mlezivo, které vzniká **0 až 72 hodin po porodu**. Zatímco ale lidské děti na něm nejsou životně závislé (protože máme pro případ nejvyšší nouze umělé mléko), u některých zvířat jde o látku, kterou je nutné bezpodmínečně přijmout. Jinak hrozí, že imunita nově narozeného zvířete nebude správně fungovat.
 
-Z toho plyne, že kozí kolostrum obsahují látky, které **mají důležitou roli pro zahájení budování obranyschopnosti**.
+Z toho plyne, že kozí kolostrum obsahují látky, které **mají důležitou roli pro** [**zahájení budování obranyschopnosti**](https://www.oslabenaimunita.cz/blog/obranyschopnost-organismu-co-ji-oslabuje-a-jak-ji-posilit/).
 
 **Rozbory ukázaly, že kozí kolostrum obsahuje:**
 
@@ -30,7 +30,7 @@ Z toho plyne, že kozí kolostrum obsahují látky, které **mají důležitou r
 * Laktoferin
 * PRP
 
-V nízkých hodnotách může kolostrum obsahovat i vitamíny, minerální látky a aminokyseliny. Zajímavé je pak také to, že **kvalita kolostra klesá, čím delší doba uběhla od porodu**. Z etického hlediska je však důležité, aby bylo nejvíce kolostra poskytnuto zvířatům. A teprve pak se myslelo na jeho zpracování pro lidi.
+V nízkých hodnotách může kolostrum [obsahovat i vitamíny](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), minerální látky a aminokyseliny. Zajímavé je pak také to, že **kvalita kolostra klesá, čím delší doba uběhla od porodu**. Z etického hlediska je však důležité, aby bylo nejvíce kolostra poskytnuto zvířatům. A teprve pak se myslelo na jeho zpracování pro lidi.
 
 ![](/images/ucinky-kolostra.jpg)
 
@@ -40,7 +40,7 @@ Jak vidíte, kolostrum je opravdu cenná surovina. Jaké má ale účinky na na�
 
 **Mezi potenciálně prospěšné benefity kozího kolostra řadíme:**
 
-* Posílení imunitního systému
+* [Posílení imunitního systému](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/)
 * Prevenci průjmu
 * Zdraví žaludku
 
@@ -50,7 +50,7 @@ Z toho důvodu se kozí kolostrum přidává do **prostředků na oslabenou imun
 
 Abychom to nevzali příliš zkráceně, pokusíme se vám srozumitelně vysvětlit, jak přesně kolostrum v organismu funguje.
 
-V tomto hrají největší roli obsažené **imunoglobuliny**. Ve své podstatě jde o **protilátky**, které **mají schopnost bojovat proti virům a bakteriím**. (Hodně to ale závisí na jejich typu. Viz jejich výčet uvedený výše.) Což je rozhodně něco, co je u oslabeného organismu potřeba. Ne každý člověk je totiž schopen vyrobit dostatek protilátek pro svoji přirozenou ochranu.
+V tomto hrají největší roli obsažené **imunoglobuliny**. Ve své podstatě jde o **protilátky**, které **mají schopnost bojovat proti virům a bakteriím**. (Hodně to ale závisí na jejich typu. Viz jejich výčet uvedený výše.) Což je rozhodně něco, co je u [oslabeného organismu](https://www.oslabenaimunita.cz/oslabena-imunita-priznaky-a-prevence/) potřeba. Ne každý člověk je totiž schopen vyrobit dostatek protilátek pro svoji přirozenou ochranu.
 
 ![](/images/jak-pusobi-kolostrum-na-imunitu.jpg)
 
