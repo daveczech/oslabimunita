@@ -1,7 +1,6 @@
 +++
 date = 2021-03-11T23:00:00Z
 description = "Imunitní systém je náš ochranný štít. I ten se ale může čas od času oslabit. Na jeho posílení můžete vyzkoušet čaj na imunitu."
-draft = true
 image = "/images/caj-na-imunitu.jpg"
 title = "Čaj na imunitu: Který je ten nejlepší a jak na jeho přípravu"
 type = ""
