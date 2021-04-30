@@ -19,6 +19,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/blog/bunecna-imunita-co-je-to-a-v-cem-se-lisi.md
 - exampleSite/content/blog/caj-na-imunitu-ktery-je-ten-nejlepsi-a-jak-na-jeho-pripravu.md
 - exampleSite/content/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze.md
 - exampleSite/content/blog/dezinfekce-rukou-vite-jak-ji-spravne-pouzivat.md
