@@ -1,7 +1,6 @@
 +++
 date = 2021-04-29T22:00:00Z
 description = "Přemýšleli jste někdy o tom, jak lidská imunita funguje? Dnes se podíváme na buněčnou imunitu z blízka."
-draft = true
 image = "/images/bunecna-imunita.jpg"
 title = "Buněčná imunita: Co je to a v čem se liší?"
 type = ""
