@@ -1,7 +1,6 @@
 +++
 date = 2021-05-24T22:00:00Z
 description = "Pokud vás trápí nachlazení a ucpaný nos, nemusíte do sebe hned ládovat léky z lékárny. Vyzkoušejte rýmovník. ▷ Více o účincích."
-draft = true
 image = "/images/rymovnik.jpg"
 title = "Rýmovník: Jeho nejlepší účinky a využití"
 type = ""
