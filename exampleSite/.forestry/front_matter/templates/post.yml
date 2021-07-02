@@ -19,6 +19,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/blog/babske-rady-na-posileni-imunity-vyzkousejte-techto-6-tipu.md
 - exampleSite/content/blog/bunecna-imunita-co-je-to-a-v-cem-se-lisi.md
 - exampleSite/content/blog/caj-na-imunitu-ktery-je-ten-nejlepsi-a-jak-na-jeho-pripravu.md
 - exampleSite/content/blog/caj-na-nachlazeni-jak-ho-pripravit-a-ktery-pomuze.md
