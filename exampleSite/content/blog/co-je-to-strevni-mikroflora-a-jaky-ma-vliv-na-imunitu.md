@@ -1,7 +1,6 @@
 +++
 date = 2021-08-19T22:00:00Z
 description = "Střevní mikroflóra je neviditelný svět, který se skrývá uvnitř nás. Z toho důvodu ho mnozí z nás berou na lehkou váhu."
-draft = true
 image = "/images/strevni-mikroflora.jpg"
 title = "Co je to střevní mikroflóra a jaký má vliv na imunitu?"
 type = ""
