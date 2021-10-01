@@ -1,7 +1,6 @@
 +++
 date = 2021-09-30T22:00:00Z
 description = "Léky na imunitu na předpis jsou pro mnoho lidí učiněná záchrana. Jak a kdy je správně užívat? ▷ Přečtěte si více."
-draft = true
 image = "/images/leky-na-imunitu-1.jpg"
 title = "Léky na imunitu: Kdy a jak je správně užívat?"
 type = ""
