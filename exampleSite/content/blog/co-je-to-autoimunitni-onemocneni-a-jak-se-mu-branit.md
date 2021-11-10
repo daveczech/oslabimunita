@@ -1,7 +1,6 @@
 +++
 date = 2021-11-09T23:00:00Z
 description = ""
-draft = true
 image = "/images/autoimunitni-onemocneni.jpg"
 title = "Co je to autoimunitní onemocnění a jak se mu bránit?"
 type = ""
