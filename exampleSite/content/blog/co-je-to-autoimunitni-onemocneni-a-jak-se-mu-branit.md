@@ -1,6 +1,6 @@
 +++
 date = 2021-11-09T23:00:00Z
-description = ""
+description = " Autoimunitní onemocnění znamená, že tělo napadá samo sebe. Protože nějakou svoji část vyhodnotilo jako hrozbu. Jak se tomu bránit? ▷ Přečtěte si více."
 image = "/images/autoimunitni-onemocneni.jpg"
 title = "Co je to autoimunitní onemocnění a jak se mu bránit?"
 type = ""
