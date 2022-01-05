@@ -1,7 +1,6 @@
 +++
 date = 2021-12-19T23:00:00Z
 description = "Víte, jak na správné mytí? Jak často a kdy si umývat ruce? A jak vypadá správný postup? ▷ Odpovědi najdete v našem článku."
-draft = true
 image = "/images/myti-rukou.jpg"
 title = "Jak na správné mytí rukou? Víme, jak na to"
 type = ""
