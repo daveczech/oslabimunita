@@ -12,7 +12,7 @@ Už malé děti učíme, že si musí pravidelně umývat ruce. Jak ale stárnem
 
 Také je potřeba říct, že není umývání rukou jako umývání rukou. Kdo si myslí, že stačí namočit si prsty do vody a tím to končí, je na omylu.
 
-**Jak to tedy dělat správně?**
+> **Jak to tedy dělat správně?**
 
 ![jak si správně mýt ruce postup](/images/jak-si-spravne-myt-ruce-postup.jpg)
 
