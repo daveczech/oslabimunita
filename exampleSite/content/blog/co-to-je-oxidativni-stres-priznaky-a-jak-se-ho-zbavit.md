@@ -1,7 +1,6 @@
 +++
 date = 2022-02-24T23:00:00Z
 description = "Oxidační stres je silný protivník, který dovede po dostatečně dlouhé době podlomit naše zdraví. Jak proti němu bojovat? Přečtěte si více."
-draft = true
 image = "/images/oxidativni-stres.jpg"
 title = "Co to je oxidativní stres: Příznaky a jak se ho zbavit"
 type = ""
