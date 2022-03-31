@@ -1,7 +1,6 @@
 +++
 date = 2022-03-30T22:00:00Z
 description = "Zázvor je kořen, který si v našich končinách získal velkou oblibu. Jaké zdravotní účinky vám může zázvor nabídnout? Přečtěte si více."
-draft = true
 image = "/images/zazvor-na-imunitu.jpg"
 title = "Zázvor a jeho účinky nejen na imunitu"
 type = ""
