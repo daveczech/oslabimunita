@@ -18,8 +18,6 @@ Je naprosto jasné, že pokud dáváte přednost fast foodu, brambůrkům, sladk
 
 Pravděpodobně neuděláte nic špatného, když do svého jídelníčku zařadíte větší množství **čerstvého ovoce a zeleniny**. Také vám prospěje libové maso a minimum průmyslově zpracované stravy.
 
-![zdroje vitamínu c](/images/zdroje-vitaminu-c-1.jpg)
-
 ## Zdroje vitamínu C
 
 [Vitamín C je významným antioxidantem](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), který[ chrání buňky](https://www.oslabenaimunita.cz/blog/bunecna-imunita-co-je-to-a-v-cem-se-lisi/) před [oxidačním stresem](https://www.oslabenaimunita.cz/blog/co-to-je-oxidativni-stres-priznaky-a-jak-se-ho-zbavit/) a předčasným stárnutím. Kromě jiného, má velký vliv na normální [funkci lidského imunitního systému](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/). Opravdu ho ale najdeme jen v citronu?
@@ -36,7 +34,7 @@ Pravděpodobně neuděláte nic špatného, když do svého jídelníčku zařad
 
 Jak vidíte, při příštím nákupu byste měli sebevědomě zamířit do oddělení s ovocem a zeleninou.
 
-![zdroje vitamínu d](/images/zdroje-vitaminu-d.jpg)
+![zdroje vitamínu c](/images/zdroje-vitaminu-c-1.jpg)
 
 ## Zdroje vitamínu D
 
@@ -52,7 +50,7 @@ Jak vidíte, při příštím nákupu byste měli sebevědomě zamířit do odd�
 
 Kvůli malému přirozenému výskytu v portravinách se do některých výrobků přidává dodatečně. Například do džusů, mléka a do některých cereálií. Tato informace bývá vždy uvedena na obale.
 
-![](/images/zdroje-vitaminu-d-1.jpg)
+![zdroje vitamínu d](/images/zdroje-vitaminu-d.jpg)
 
 ## Zdroje vitamínu B
 
@@ -65,6 +63,8 @@ Vitamíny skupiny B jsou poměrně rozšířené a velmi dobře dostupné. Lidé
 * Mléce
 * Hovězím mase
 * Luštěninách
+
+![zdroje vitamínu b](/images/zdroje-vitaminu-b.jpg)
 
 ## Užívání doplňků stravy
 
