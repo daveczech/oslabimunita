@@ -1,7 +1,6 @@
 +++
 date = 2022-06-12T22:00:00Z
 description = "Otužování má pro lidské tělo spoustu výhod. Je proto naprosto pochopitelné, že jsme o něm ochotni začít přemýšlet. Znáte všechny účinky?"
-draft = true
 image = "/images/otuzovani.jpg"
 title = "Účinky otužování a jak s ním začít"
 type = ""
