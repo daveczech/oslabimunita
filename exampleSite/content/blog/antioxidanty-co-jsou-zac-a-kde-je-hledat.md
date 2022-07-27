@@ -13,6 +13,8 @@ Když se začtete do kteréhokoliv článku o zdravé výživě a zdraví, je je
 
 **Proto se na ně podrobně podíváme níže.**
 
+![antioxidanty účinky imunita](/images/antioxidanty-ucinky-imunita.jpg)
+
 ## Co jsou to antioxidanty?
 
 Antioxidant je označení pro látku, jejíž **molekuly omezují aktivitu nežádoucích volných radikálů**. Také mohou předcházet jejich vzniku, nebo je činí méně reaktivní. To je pozitivní, protože volné radikály se dlouhodobě spojují s rozvojem **civilizačních chorob**.
@@ -21,11 +23,13 @@ Ve své podstatě antioxidanty **omezují proces oxidace**. Ze stejných důvod�
 
 ## Účinky antioxidantů
 
-Mezi nejvýznamnější schopnosti antioxidantů patří **ochrana organismus před předčasným stárnutím**. K oxidativnímu stresu může dojít při mnoha běžných aktivitách, mezi které patří cvičení, kouření, hojení úrazu a podobně. Antioxidanty se pak rozdělují na několik typů. (Například vitamín C, vitamín A, vitamín E atd.)
+Mezi nejvýznamnější schopnosti antioxidantů patří **ochrana organismus před předčasným stárnutím**. K [oxidativnímu stresu](https://www.oslabenaimunita.cz/blog/co-to-je-oxidativni-stres-priznaky-a-jak-se-ho-zbavit/) může dojít při mnoha běžných aktivitách, mezi které patří cvičení, kouření, hojení úrazu a podobně. Antioxidanty se pak rozdělují na několik typů. (Například [vitamín C](https://www.oslabenaimunita.cz/blog/vitamin-c-pro-zdravou-imunitu/), vitamín A, vitamín E atd.)
 
 ## Antioxidanty na imunitu
 
-Z našeho předešlého vzorového výčtu antioxidantů nejspíš chápete, čím se budeme v rámci tohoto odstavce zabývat. Řada látek, které mají antioxidační účinky, má pozitivní vliv na **posilování imunitního systému**. Typicky jde o již jmenovaný vitamín C, vitamín E a podobně. Z toho důvodu je žádoucí, abyste měli dobře nastavený jídelníček, ve kterém se objeví všechny zdroje antioxidantů.
+Z našeho předešlého vzorového výčtu antioxidantů nejspíš chápete, čím se budeme v rámci tohoto odstavce zabývat. Řada látek, které mají antioxidační účinky, má pozitivní vliv na [posilování imunitního systému](https://www.oslabenaimunita.cz/5-ucinnych-tipu-na-posileni-imunity/). Typicky jde o již jmenovaný vitamín C, vitamín E a podobně. Z toho důvodu je žádoucí, abyste měli dobře nastavený jídelníček, ve kterém se objeví všechny zdroje antioxidantů.
+
+![](/images/antioxidanty-v-potravinach-zdroje.jpg)
 
 ## Antioxidanty v potravinách - zdroje
 
@@ -51,4 +55,4 @@ Dále si můžete dopřávat citrusové ovoce, které je dobrým zdrojem **vitam
 
 Aby neměl váš jídelníček až takovou práci, hodí se zamyslet nad tím, jestli nepřišel čas skoncovat s kouřením, nadměrným pitím alkoholu a s dalšími nezdravými zvyky, které mají vliv na vznik volných radikálů.
 
-V neposlední řadě také vyzkoušejte **dlouhodobé užívání doplňků stravy na podporu imunitního systému**, které kromě vitamínů s antioxidačními účinky obsahují i široké spektrum bylinek (echinacea, kolostrum, ženšen, šípek…). Spolu s výše uvedenými změnami životosprávy získáte benefit v podobě odolného zdraví.
+V neposlední řadě také vyzkoušejte **dlouhodobé užívání doplňků stravy na** [podporu imunitního systému](https://www.oslabenaimunita.cz/imunitni-system-vite-jak-funguje/), které kromě vitamínů s antioxidačními účinky obsahují i široké spektrum bylinek (echinacea, kolostrum, ženšen, šípek…). Spolu s výše uvedenými změnami životosprávy získáte benefit v podobě odolného zdraví.
