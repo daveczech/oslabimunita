@@ -1,7 +1,6 @@
 +++
 date = 2022-11-06T23:00:00Z
 description = "Jak se liší získaná imunita od té vrozené? A jak ji správně posílit? Přečtěte si tipy a triky, jak posílit váš imunitní systém jednou provždy."
-draft = true
 image = "/images/ziskana-imunita-1.jpg"
 title = "Co je to získaná imunita a jak ji posílit?"
 type = ""
