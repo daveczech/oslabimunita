@@ -1,7 +1,6 @@
 +++
 date = 2023-01-15T23:00:00Z
 description = "Střevní mikrobiom je doopravdy potřebný, zvlášť po porodu. Jak posílit střevní mikrobiom? Přečtěte si více v našem článku."
-draft = true
 image = "/images/strevni-mikrobiom-1.jpg"
 title = "Střevní mikrobiom: Jak ovlivňuje naši imunitu?"
 type = ""
