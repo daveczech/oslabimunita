@@ -12,7 +12,7 @@ Všichni víme, že ve střevech žije poměrně početná kolonie mikroorganism
 
 ## Co je to střevní mikrobiom?
 
-Střevní mikrobiom, nebo také střevní mikroflóra, je termín, který označuje sdružení mikroorganismů, které žijí v našem zažívacím ústrojí. Některé mikroorganismy jsou pro člověka a jeho normální fungování potřebné, další ale zahrnujeme do kategorie škodlivých patogenů. Osídlení střev mikroorganismy probíhá bezprostředně po porodu, kdy je prakticky sterilní. (Z toho důvodu se doporučuje vaginální porod a kojení.)
+Střevní mikrobiom, nebo také střevní mikroflóra, je termín, který označuje sdružení mikroorganismů, které žijí v našem zažívacím ústrojí. Některé mikroorganismy jsou pro člověka a jeho normální fungování potřebné, další ale zahrnujeme do kategorie škodlivých patogenů. Osídlení střev mikroorganismy probíhá bezprostředně po porodu, kdy je prakticky sterilní. (Z toho důvodu se doporučuje vaginální porod a kojení..)
 
 ![mikrobiom a imunitní systém](/images/mikrobiom-a-imunitni-system.jpg)
 
